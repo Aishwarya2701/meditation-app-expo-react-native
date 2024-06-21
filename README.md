@@ -1,4 +1,4 @@
-# Budget Buddy App
+# Meditation App
 ![Screenshot 2024-06-21 111925](https://github.com/Aishwarya2701/meditation-app-expo-react-native/assets/74247717/b3e4bac9-eaa5-4059-a7ad-4df3812d90bf)
 ![Screenshot 2024-06-21 111539](https://github.com/Aishwarya2701/meditation-app-expo-react-native/assets/74247717/cfe86981-765f-4555-8633-007383ba1208)
 ![Screenshot 2024-06-21 111935](https://github.com/Aishwarya2701/meditation-app-expo-react-native/assets/74247717/6dc86892-03d9-4b4c-842c-f583dd9934b2)
